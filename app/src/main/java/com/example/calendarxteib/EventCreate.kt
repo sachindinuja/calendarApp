@@ -152,6 +152,8 @@ class EventCreate : AppCompatActivity() {
         alertDialog.show()
     }
 
+
+
     private fun setNotification(event: Event, notificationTime: Long) {
         val alarmManager = getSystemService(Context.ALARM_SERVICE) as AlarmManager
         val intent = Intent(this, NotificationReceiver::class.java).apply {
