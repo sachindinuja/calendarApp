@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "517543706912",
+    "project_id": "calendarxteib",
+    "storage_bucket": "calendarxteib.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:517543706912:android:63b9fc9847d25c5ddc1745",
+        "android_client_info": {
+          "package_name": "com.example.calendarxteib"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAokCJu1lyVR2Fe0UQ5wbyVEU4o7ypS6Nc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
